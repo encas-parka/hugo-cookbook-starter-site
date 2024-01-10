@@ -1,5 +1,5 @@
-module github.com/encas-parka/cookbook-demo-site
+module github.com/encas-parka/hugo-cookbook-starter-site
 
-go 1.19
+go 1.21
 
-require github.com/encas-parka/hugo-enka-cookbook v0.0.0-20240108142412-75aa48300ff7 // indirect
+require github.com/encas-parka/hugo-cookbook-theme v0.0.0-20240109233840-7e6cd1cd01de // indirect

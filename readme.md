@@ -48,12 +48,15 @@ Un theme pour les sites statique hugo, pour des site de recettes de cuisines à 
 
 ## ## Utiliser/installer ce theme
 
-Pour utiliser ce theme (requiert un compte netlify et github) :
-  -  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/encas-parka/hugo-cookbook-starter-site) 
-  - configurer l'adresse qui vous convient dans netlify
-  - depuis votre dépot github, modifier le fichier /config/_default/params.yml pour choisir le nom et la description de votre site. 
-  - voir documentation pour plus d'info
+Pour utiliser ce theme pour votre propre site, vous pouvez 
 
+- soit utiliser hugo-cookbook-starter-site en cliquant sur (requiert un compte netlify et github):
+  
+  - [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/encas-parka/hugo-cookbook-stater-site) 
+  - configurer l'adresse qui vous convient dans netlify
+  - depuis votre dépot github, modifier le fichier hugo.yml pour choisir le nom, la description de votre site, etc.  voir documentation pour plus d'info #TODO
+
+- soit #TODO 
 
 ## Fonctionnalités
 
